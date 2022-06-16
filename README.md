@@ -30,7 +30,7 @@
 </div>
 
 - 📫 E-mail para contato: lucasramos@nexxoempresarial.com
-- ⚡ Fato divertido: Atrasei duas vezes para a entrevista de emprego e mesmo assim fui contratado.
+- ⚡ Fato curioso: Atrasei duas vezes para a entrevista de emprego e mesmo assim fui contratado.
 ---
 ### Meu principal projeto
 
