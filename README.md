@@ -15,7 +15,7 @@
 &nbsp;
 &nbsp;
 
-- 🔭 Atualmente eu trabalho como Auxiliar de Programação na [Nexxo Inteligência Empresarial](https://www.linkedin.com/company/nexxo-intelig%C3%AAncia-empresarial/mycompany/).
+- 🔭 Atualmente eu trabalho como Programador Júnior na [Nexxo Inteligência Empresarial](https://www.linkedin.com/company/nexxo-intelig%C3%AAncia-empresarial/mycompany/).
 - 🏗️ Essas são as tecnologias que eu venho trabalhando atualmente:
 <div style="display: inline_block" align="center">
   <img align="center" alt="Proscrite-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
