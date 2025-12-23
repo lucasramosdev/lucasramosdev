@@ -15,28 +15,26 @@
 &nbsp;
 &nbsp;
 
-- 🔭 Atualmente eu trabalho como Programador Júnior na [Nexxo Inteligência Empresarial](https://www.linkedin.com/company/nexxo-intelig%C3%AAncia-empresarial/mycompany/).
-- 🏗️ Essas são as tecnologias que eu venho trabalhando atualmente:
+- 🔭 Atualmente eu trabalho como Programador Júnior na [Attus Procuradoria Digital](https://www.linkedin.com/company/attus-ai).
+- 💡 Venho apredendo Go por puro hobby, todos os meus projetos em Go estarão nesse profile.
+- 🏗️ Essas são as tecnologias que eu trabalho atualmente:
 <div style="display: inline_block" align="center">
-  <img align="center" alt="lucasramosdev-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="lucasramosdev-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="lucasramosdev-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="lucasramosdev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="lucasramosdev-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="lucasramosdev-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="lucasramosdev-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
   <img align="center" alt="lucasramosdev-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="lucasramosdev-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
+  <img align="center" alt="lucasramosdev-Docker" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
   <br>
   <br>
 </div>
 
-- 📫 E-mail para contato: lucasramos@nexxoempresarial.com
-- ⚡ Fato curioso: Atrasei duas vezes para a entrevista de emprego e mesmo assim fui contratado.
+- 📫 E-mail para contato: contato@lucasramos.dev.br
+- ⚡ Fato curioso: Possuo dois gatos 🐱🐱 muito travessos que ficam me atrapalhando enquanto tento codar.
+
 ---
+
 ### Meu principal projeto
 
-Um aplicação em [Next.Js](https://nextjs.org/) capaz de renderizar Dashboards feitos no [Microsoft Power BI](https://powerbi.microsoft.com/pt-br/)! Um sistema com login e painel administrativo 100% funcionais. Pode acessar a tela de login clicando [aqui](dashboard.nexxoempresarial.com.br).
+O cnotes é uma aplicação web desenvolvida em Go (Golang) projetada para a criação e gerenciamento de anotações de estudo utilizando o método Cornell. O sistema permite organizar notas com tópicos e resumos de forma estruturada, facilitando a revisão e o aprendizado.
 
----
-
-![Snake animation](https://github.com/lucasramosdev/lucasramosdev/blob/output/github-contribution-grid-snake.svg)
+[https://cnotes.lucasramos.dev.br/](https://cnotes.lucasramos.dev.br/)
 
